@@ -14,7 +14,7 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/refraction-networking/conjure/pkg/ed25519/edwards25519"
+	"github.com/refraction-networking/ed25519/edwards25519"
 )
 
 const (
